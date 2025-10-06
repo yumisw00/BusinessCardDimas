@@ -28,5 +28,6 @@ Aplikasi sederhana ini menampilkan **kartu nama digital** menggunakan **Android 
 1. Clone repository:
    ```bash
 
-   git clone https://github.com/yumisw00/BirthdayCardDimas
+   git clone https://github.com/yumisw00/BusinessCardDimas
+
 
