@@ -1,6 +1,7 @@
 # 📱 Business Card App
 
-Projek ini dibuat untuk praktikum mata kuliah **Pemrograman Mobile Android**.  
+Project **Pemrograman Mobile Android**  
+Dibuat oleh **Dimas Dwi Fitrianto** (243307101) - Kelas 3D - Mata Kuliah Pemrogaman Mobile
 Aplikasi sederhana ini menampilkan **kartu nama digital** menggunakan **Android Studio** dan **Jetpack Compose**.
 
 ---
@@ -13,13 +14,6 @@ Aplikasi sederhana ini menampilkan **kartu nama digital** menggunakan **Android 
 
 ---
 
-## 📸 Screenshot
-Tampilan aplikasi:
-
-![Screenshot](images/tampilan.jpeg)
-
-
-
 ---
 
 ## ⚙️ Teknologi yang Digunakan
@@ -29,3 +23,10 @@ Tampilan aplikasi:
 - Material Design 3
 
 ---
+
+## Cara Menjalankan
+1. Clone repository:
+   ```bash
+
+   git clone https://github.com/yumisw00/BirthdayCardDimas
+
